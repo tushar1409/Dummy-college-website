@@ -1,2 +1,2 @@
 # Dummy-college-website
-Project created for inmovidu internship!
+Project created for inmovidu internship.
