@@ -1,2 +1,2 @@
 # Dummy-college-website
-Project created for inmovidu internship.
+A basic HTML and CSS project created for inmovidu internship.
